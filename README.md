@@ -113,7 +113,7 @@ Arabic: Native • English: Fluent • French: C1
 
 ### 📫 Let's Connect
 
-📧 **mahrajene.tataouine.mohamedziedjabeur@gmail.com**  
+📧 **mohamedziedjabeur@gmail.com**  
 📱 **+216 28 150 013**  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-zied-jabeur-33bb9b269)  
