@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Top Banner Image -->
-  <img src="https://media.istockphoto.com/id/1469534804/vector/computer-programming-banner-design-with-place-for-text-coding-and-software-development-web.jpg?s=1024x1024&w=is&k=20&c=HkvWvPpK9jIleYsZa06kDkFgc-h2AvQZF9BhvRBK6RE=" alt="Tech Developer Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" alt="Tech Developer Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 
   <h1>Hi there! 👋 I'm Mohamed Zied Jabeur </h1>
   <h3>Full-Stack & Mobile Developer | Software Engineering Student |  ISIMS Sfax</h3>
